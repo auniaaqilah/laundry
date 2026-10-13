@@ -12,6 +12,8 @@ Traditional laundry shops often rely on manual paper logs or disjointed messagin
 - [Sprint log](docs/sprint-log.md)
 
 ## Project structure
+## Project structure
+```
 .
 |-- README.md
 |-- LICENSE
@@ -22,7 +24,8 @@ Traditional laundry shops often rely on manual paper logs or disjointed messagin
 |   |-- user-stories.md
 |   |-- sprint-log.md
 |-- src/
-|-- README.md      (code will go here)
+    |-- README.md      (code will go here)
+```
 
 
 ## Roadmap

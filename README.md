@@ -1,9 +1,9 @@
-# [Project Title]
+# Laundry Management System
 
-[One sentence: what problem does this project solve, and for whom?]
+A web-based platform designed to streamline customer order tracking, service scheduling, and inventory management for modern laundry businesses.
 
 ## Problem statement
-[3 to 5 sentences. Copy them from docs/problem-statement.md]
+Traditional laundry shops often rely on manual paper logs or disjointed messaging apps to manage customer orders, leading to lost tickets, miscommunication regarding garment status, and inefficient queue tracking. Customers experience frustration due to a lack of real-time visibility into when their laundry will be ready for pickup. This project solves these operational bottlenecks by providing a centralized digital system that automates order logging, status updates, and progress tracking for both staff and customers.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
@@ -12,7 +12,7 @@
 - [Sprint log](docs/sprint-log.md)
 
 ## Project structure
-```
+```text
 .
 |-- README.md
 |-- LICENSE
@@ -24,12 +24,10 @@
 |   |-- sprint-log.md
 |-- src/
     |-- README.md      (code will go here)
-```
-
 ## Roadmap
 - [x] Problem statement written
-- [ ] Requirements numbered and linked to user stories
-- [ ] User stories have acceptance criteria
+- [x] Requirements numbered and linked to user stories
+- [x] User stories have acceptance criteria
 - [ ] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
@@ -37,4 +35,4 @@
 Sprint 1 completed (CSC649, Week 3)
 
 ## Author
-[Your Name]
+Auni Aqilah

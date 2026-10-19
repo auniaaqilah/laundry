@@ -18,3 +18,12 @@
    - **Acceptance Criteria:**
      - Each story explicitly links to a requirement ID (e.g., REQ-1).
      - Traceability between requirements and stories is established.
+
+## Specialized Technology Focus
+
+* **Chosen Technology:** Natural Language Processing (NLP) with Retrieval-Augmented Generation (RAG) Chatbots
+* **Application Platform:** **aLaundry** (On-Demand Laundry & Dry-Cleaning Platform)
+
+### Credible Sources:
+1. **Lewis, P., et al. (2020).** *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.* Advances in Neural Information Processing Systems (NeurIPS 33).
+2. **Jurafsky, D., & Martin, J. H. (2023).** *Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition* (3rd ed.).

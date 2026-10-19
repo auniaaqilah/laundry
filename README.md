@@ -3,7 +3,7 @@
 A web-based platform designed to streamline customer order tracking, service scheduling, and inventory management for modern laundry businesses.
 
 ## Problem statement
-Most traditional laundry shops still manage customer orders using paper tickets and quick messaging apps. This method quickly gets messy leading to lost garments, communication breakdowns, and long waits. Customers are left guessing when their laundry will be finished. aLaundry solves this by organizing the entire process online. It automates order logging and real-time status updates so staff can work efficiently and customers always know exactly when their clothes are ready.
+Most traditional laundry shops still manage customer orders using paper tickets and quick messaging apps. This method quickly gets messy leading to lost garments, communication breakdowns, and long waits. Customers are left guessing when their laundry will be finished. Laundry solves this by organizing the entire process online. It automates order logging and real-time status updates so staff can work efficiently and customers always know exactly when their clothes are ready.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
@@ -32,7 +32,7 @@ Most traditional laundry shops still manage customer orders using paper tickets 
 - [x] Problem statement written
 - [x] Requirements numbered and linked to user stories
 - [x] User stories have acceptance criteria
-- [ ] Specialized technology chosen and explained
+- [x] Specialized technology chosen and explained (NLP / RAG Chatbot)
 - [ ] First prototype (later in the semester)
 
 ## Status

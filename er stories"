@@ -1,0 +1,17 @@
+[1mdiff --git a/docs/user-stories.md b/docs/user-stories.md[m
+[1mindex 12a5e5b..b2569d8 100644[m
+[1m--- a/docs/user-stories.md[m
+[1m+++ b/docs/user-stories.md[m
+[36m@@ -2,6 +2,8 @@[m
+ [m
+ Format: As a [type of user], I want [goal], so that [reason or benefit].[m
+ [m
+[31m-1. As a ..., I want ..., so that ...[m
+[31m-2. As a ..., I want ..., so that ...[m
+[31m-3. As a ..., I want ..., so that ...[m
+[32m+[m[32m1. As a developer, I want clear acceptance criteria on each user story, so that I can verify when a task is fully completed.[m
+[32m+[m
+[32m+[m[32m2. As a project contributor, I want a structured README with a clear roadmap, so that I can understand the project layout and track sprint milestones easily.[m
+[32m+[m
+[32m+[m[32m3. As a developer, I want numbered requirements linked to each user story, so that I can ensure full coverage and traceability across project features.[m
+\ No newline at end of file[m

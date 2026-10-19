@@ -3,7 +3,7 @@
 A web-based platform designed to streamline customer order tracking, service scheduling, and inventory management for modern laundry businesses.
 
 ## Problem statement
-Traditional laundry shops often rely on manual paper logs or disjointed messaging apps to manage customer orders, leading to lost tickets, miscommunication regarding garment status, and inefficient queue tracking. Customers experience frustration due to a lack of real-time visibility into when their laundry will be ready for pickup. This project solves these operational bottlenecks by providing a centralized digital system that automates order logging, status updates, and progress tracking for both staff and customers.
+Most traditional laundry shops still manage customer orders using paper tickets and quick messaging apps. This method quickly gets messy leading to lost garments, communication breakdowns, and long waits. Customers are left guessing when their laundry will be finished. aLaundry solves this by organizing the entire process online. It automates order logging and real-time status updates so staff can work efficiently and customers always know exactly when their clothes are ready.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)

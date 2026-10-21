@@ -22,7 +22,7 @@
 ## Specialized Technology Focus
 
 * **Chosen Technology:** Natural Language Processing (NLP) with Retrieval-Augmented Generation (RAG) Chatbots
-* **Application Platform:** **aLaundry** (On-Demand Laundry & Dry-Cleaning Platform)
+* **Application Platform:** **Laundry** (On-Demand Laundry & Dry-Cleaning Platform)
 
 ### Credible Sources:
 1. **Lewis, P., et al. (2020).** *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.* Advances in Neural Information Processing Systems (NeurIPS 33).

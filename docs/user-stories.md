@@ -1,6 +1,6 @@
 # User Stories & Requirement Traceability
 
-This document maps all user stories for the **aLaundry** On-Demand Laundry & Dry-Cleaning Platform to their respective requirement IDs.
+This document maps all user stories for the **Laundry** On-Demand Laundry & Dry-Cleaning Platform to their respective requirement IDs.
 
 ---
 
@@ -13,7 +13,7 @@ This document maps all user stories for the **aLaundry** On-Demand Laundry & Dry
 - **I want to:** Create and modify my laundry service orders
 - **So that:** I can select my desired laundry services, specify item counts, and set pickup schedules.
 - **Acceptance Criteria:**
-  - [ ] User can select laundry categories (e.g., Wash & Fold, Dry Cleaning, Ironing).
+  - [ ] User can select laundry categories ( Wash & Fold, Dry Cleaning, Ironing).
   - [ ] User can specify item quantities and special instructions.
   - [ ] User can edit or cancel an order while the status is still `Pending`.
 
